@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Abdulwajid408 Abdul_Wajid
+- 👀 I’m interested in Data Anlysis, Data Science, Database admin...
+- 🌱 I’m currently learning Data_Science (almost done)...
+- 📫 How to reach me (later will see)...
+
+<!---
+Abdulwajid408/Abdulwajid408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
